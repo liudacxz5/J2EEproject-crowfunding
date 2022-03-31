@@ -21,7 +21,7 @@
 
 
     <properties>
-        <corwfunding.spring.version>4.3.20.RELEASE</corwfunding.spring.version>
+        <corwfunding.spring.version>5.3.18</corwfunding.spring.version>
         <crowfunding.spring.security.version>4.2.10.RELEASE</crowfunding.spring.security.version>
     </properties>
 
